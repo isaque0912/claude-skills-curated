@@ -3,9 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/jackculpan/claude-skills-curated?style=social)](https://github.com/jackculpan/claude-skills-curated)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A hand-picked collection of the best Claude Code skills, plugins, and resources. Quality over quantity.
+> A great collection of Claude Code skills, plugins, and resources.
 
-Unlike comprehensive lists with hundreds of entries, this repo features only **the best** - each resource is reviewed and rated.
+An organized list of useful Claude Code resources, each with a rating to help you find what you need.
 
 ---
 
@@ -40,7 +40,7 @@ Unlike comprehensive lists with hundreds of entries, this repo features only **t
 |----------|--------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | ⭐⭐⭐ | Official Anthropic skills repo - the gold standard for skill examples and templates |
 | [anthropics/claude-code/plugins](https://github.com/anthropics/claude-code/tree/main/plugins) | ⭐⭐⭐ | Official Claude Code plugins with proper structure and patterns |
-| [Frontend Design Skill](https://github.com/anthropics/skills/blob/main/frontend-design/SKILL.md) | ⭐⭐⭐ | Anthropic's skill for better UI/UX generation - avoids generic "AI slop" |
+| [Frontend Design Skill](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) | ⭐⭐⭐ | Anthropic's skill for better UI/UX generation - avoids generic "AI slop" |
 
 ---
 
@@ -152,26 +152,23 @@ Unlike comprehensive lists with hundreds of entries, this repo features only **t
 
 ---
 
-## What Makes a Skill "Best"?
+## Rating Criteria
 
-We evaluate skills based on:
+Resources are rated based on:
 
 1. **Usefulness** - Solves real problems for Claude Code users
 2. **Quality** - Well-documented, follows best practices
 3. **Maintenance** - Actively updated, responsive maintainer
 4. **Popularity** - Community adoption and positive feedback
-5. **Uniqueness** - Offers something other skills don't
 
 ---
 
 ## Contributing
 
-Have a great skill to suggest? Open an issue with:
+Have a skill to suggest? Open an issue with:
 - Link to the repository
 - Brief description of what it does
-- Why you think it deserves to be on this list
-
-We review all submissions but only add resources that meet our quality bar.
+- Why you think it's useful
 
 ---
 
