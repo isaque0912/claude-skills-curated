@@ -1,5 +1,8 @@
 # Claude Skills Curated
 
+[![GitHub stars](https://img.shields.io/github/stars/jackculpan/claude-skills-curated?style=social)](https://github.com/jackculpan/claude-skills-curated)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 > A hand-picked collection of the best Claude Code skills, plugins, and resources. Quality over quantity.
 
 Unlike comprehensive lists with hundreds of entries, this repo features only **the best** - each resource is reviewed and rated.
