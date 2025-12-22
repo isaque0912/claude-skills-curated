@@ -7,6 +7,8 @@
 
 An organized list of useful Claude Code resources, each with a rating to help you find what you need.
 
+**[Try New Skills in the Playground](https://skillsplayground.com)**
+
 ---
 
 ## Rating System
